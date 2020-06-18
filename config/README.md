@@ -46,4 +46,4 @@ Bitcoin | 1
 Ethereum | 2
 Ontology | 3
 NEO | 4
-Cosmos | 5
+Cosmos | 6
