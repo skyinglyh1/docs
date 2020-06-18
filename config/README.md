@@ -38,3 +38,12 @@ ETHx | B: 0x74fac41ad5ad23921a3400e953e1cafb41240d08 </br> L: 080d2441fbcae153e9
 ONTx | B: 0xffd33fc3e0c5f3574ef6a0fd028971a7ff7d3da6 </br> L: a63d7dffa7718902fda0f64e57f3c5e0c33fd3ff |
 CCMC | B: 0x02d9290db5ff0ce5242727fbdbdf01aacc6656f5 </br> L: f55666ccaa01dfdbfb272724e50cffb50d29d902 |
 Lock Proxy | B: 0xa8ed3b1e0337230f1b90028ac3650e318bbec1ad </br> L: adc1be8b310e65c38a02901b0f2337031e3beda8 |
+
+## Router
+Type | Num
+---|---
+Bitcoin | 1
+Ethereum | 2
+Ontology | 3
+NEO | 4
+Cosmos | 5
