@@ -35,10 +35,11 @@ Type | Contract Hash | Desc
 ---|---|---
 CNEO-TEST | B: 0x47e1b8aee4b8ea01a8868d86ed61be50e8f647bb </br> L: bb47f6e850be61ed868d86a801eab8e4aeb8e147 | 
 CGAS | B: 0x74f2dc36a68fdc4682034178eb2220729231db76 </br> L: 76db3192722022eb7841038246dc8fa636dcf274 |
-ETHx | B: 0x74fac41ad5ad23921a3400e953e1cafb41240d08 </br> L: 080d2441fbcae153e900341a9223add51ac4fa74 | Eth asset hash in Neo chain
+ETHx | B: 0xd7b32de37ad906df80805c2419ff5560d20f9cbf </br> L: bf9c0fd26055ff19245c8080df06d97ae32db3d7 | Eth asset hash in Neo chain
+BTCx | B: 0x3ee29d5cc82771e91383f9ba09c6f5c5878f3f24 </br> L: 243f8f87c5f5c609baf98313e97127c85c9de23e | BTC asset hash in Neo chain
 ONTx | B: 0xffd33fc3e0c5f3574ef6a0fd028971a7ff7d3da6 </br> L: a63d7dffa7718902fda0f64e57f3c5e0c33fd3ff | ONT asset hash in Neo chain
-CCMC | B: 0x02d9290db5ff0ce5242727fbdbdf01aacc6656f5 </br> L: f55666ccaa01dfdbfb272724e50cffb50d29d902 | Cross Chain Manager Contract
-Lock Proxy | B: 0xa8ed3b1e0337230f1b90028ac3650e318bbec1ad </br> L: adc1be8b310e65c38a02901b0f2337031e3beda8 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+CCMC | B: 0x978286951e0011221de3fffe6a9e6dd160925837 </br> L: 37589260d16d9e6afeffe31d2211001e95868297 | Cross Chain Manager Contract
+Lock Proxy | B: 0x87220d44c14178e5e57850bbddc4bc69cedbfdb0 </br> L: b0fddbce69bcc4ddbb5078e5e57841c1440d2287 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 
 
 ## Note 
