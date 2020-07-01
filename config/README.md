@@ -18,6 +18,7 @@ NEOx |  | Neox contract hash in Ethereum chain
 
 ## Ontology
 #### Please donot send from or to Ontology network during upgrade of Ontology testnet
+
 Type | Contract Hash | Desc
 ---|---|---
 Lock Proxy | B: </br> L:  | The bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
@@ -29,6 +30,7 @@ ETHx | B:  </br> L:  | Ethx asset hash in Ontology chain
 BTCx | B:  </br> L:  |  Btcx contract hash in Ontology chain
 CNEOx | B:  </br> L:  |  CNEOx contract hash in Ontology chain
 CGASx | B:  </br> L:  | CGasx contract hash in Ontology chain
+
 ## Neo
 
 Type | Contract Hash | Desc
@@ -38,6 +40,7 @@ CGAS | B: 0x74f2dc36a68fdc4682034178eb2220729231db76 </br> L: 76db3192722022eb78
 ETHx | B: 0xd7b32de37ad906df80805c2419ff5560d20f9cbf </br> L: bf9c0fd26055ff19245c8080df06d97ae32db3d7 | Eth asset hash in Neo chain
 BTCx | B: 0x3ee29d5cc82771e91383f9ba09c6f5c5878f3f24 </br> L: 243f8f87c5f5c609baf98313e97127c85c9de23e | BTC asset hash in Neo chain
 ONTx | B: 0xffd33fc3e0c5f3574ef6a0fd028971a7ff7d3da6 </br> L: a63d7dffa7718902fda0f64e57f3c5e0c33fd3ff | ONT asset hash in Neo chain
+ATOMx | B: 0xffd33fc3e0c5f3574ef6a0fd028971a7ff7d3da6 </br> L: a63d7dffa7718902fda0f64e57f3c5e0c33fd3ff | ATOM asset hash in Neo chain
 CCMC | B: 0x978286951e0011221de3fffe6a9e6dd160925837 </br> L: 37589260d16d9e6afeffe31d2211001e95868297 | Cross Chain Manager Contract
 Lock Proxy | B: 0x87220d44c14178e5e57850bbddc4bc69cedbfdb0 </br> L: b0fddbce69bcc4ddbb5078e5e57841c1440d2287 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 
@@ -46,6 +49,9 @@ Lock Proxy | B: 0x87220d44c14178e5e57850bbddc4bc69cedbfdb0 </br> L: b0fddbce69bc
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
 
 `L` means little-endian, we usually use it as the asset hash input when we do binding asset hash operation.
+
+
+## Cosmos
 
 Type | Denom (coin name) | Asset/Contract Hash | Desc
 :-:|:-:|:-:|:-:
@@ -58,7 +64,7 @@ ETHx | ethx | 65746878 |
 BTCx | btcx | 62746378 |
 NEOx | neox | 6e656f78 | not including currently
 GASx | gasx | 67617378 | not including currently
-Cosmos| stake | 7374616b65 | not including currently
+ATOM | stake | 7374616b65 | not including currently
 
 ## Router And ChainId
 Type | Router Number | ChainId
