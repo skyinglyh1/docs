@@ -42,7 +42,7 @@ Type | Contract Hash | Desc
 ---|---|---
 CNEO-TEST | B:  </br> L:  |
 CGAS | B:  </br> L:  |
-ETHx | B:  0xbffed247643e6ae0ba3afd3139be75ee9539a44d L: 4da43995ee75be3931fd3abae06a3e6447d2febf |
+ETHx | B:  0x74fac41ad5ad23921a3400e953e1cafb41240d08 L: 080d2441fbcae153e900341a9223add51ac4fa74 |
 ONTx | B:  </br> L:  |
 BTCx | B: 0x658c0e461174aa02a382b16ffe938569ab72db1d </br> L: 1ddb72ab698593fe6fb182a302aa7411460e8c65 |
 COSMOSx | B:  </br> L:  |
