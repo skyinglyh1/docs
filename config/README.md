@@ -40,9 +40,9 @@ CGAS | B: 0x74f2dc36a68fdc4682034178eb2220729231db76 </br> L: 76db3192722022eb78
 ETHx | B: 0xd7b32de37ad906df80805c2419ff5560d20f9cbf </br> L: bf9c0fd26055ff19245c8080df06d97ae32db3d7 | Eth asset hash in Neo chain
 BTCx | B: 0x3ee29d5cc82771e91383f9ba09c6f5c5878f3f24 </br> L: 243f8f87c5f5c609baf98313e97127c85c9de23e | BTC asset hash in Neo chain
 ONTx | B: 0xffd33fc3e0c5f3574ef6a0fd028971a7ff7d3da6 </br> L: a63d7dffa7718902fda0f64e57f3c5e0c33fd3ff | ONT asset hash in Neo chain
-ATOMx | B: 0xffd33fc3e0c5f3574ef6a0fd028971a7ff7d3da6 </br> L: a63d7dffa7718902fda0f64e57f3c5e0c33fd3ff | ATOM asset hash in Neo chain
+ATOMx | B: 0xb25b51d684f7945f7aab43496cb0e87138abdb35 </br> L: 35dbab3871e8b06c4943ab7a5f94f784d6515bb2 | ATOM asset hash in Neo chain
 CCMC | B: 0x82a3401fb9a60db42c6fa2ea2b6d62e872d6257f </br> L: 7f25d672e8626d2beaa26f2cb40da6b91f40a382 | Cross Chain Manager Contract
-Lock Proxy | B: 0x87220d44c14178e5e57850bbddc4bc69cedbfdb0 </br> L: b0fddbce69bcc4ddbb5078e5e57841c1440d2287 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+Lock Proxy | B: 0x777d0dcc388dbd0fcb41488811d1486b3056fa16 </br> L: 16fa56306b48d111884841cb0fbd8d38cc0d7d77 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 
 
 ## Note 
