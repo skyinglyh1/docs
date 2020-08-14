@@ -6,28 +6,30 @@ This's cross chain asset contract info, it's used to bind asset mapping in diffe
 
 Type | Contract Hash | Desc
 ---|---|---
-CCMP | 0x87FdA0ceD9aEb973E7e8655584DeEC77658546cC | Cross Chain Manager Proxy contract hash 
-Lock Proxy | 0x388Ed8B73bd707A78034E1d157fA08Da24095c18 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
-ERC20 | 0x8142d8936A3571F6F4777716D37b1Dd4c1Ca1d93 | ERC20 template contract hash in Ethereum chain
-OEP4x | 0x27A9206bbF288e469AaCC2168E621e503c2bc846 | OEP4x template contract hash in Ethereum chain
-ONGx | 0xFb37c160CFBd8BD4Ba6df6f70e2449b6EB83fc26 | ONGx contract hash in Ethereum chain
-ONTx | 0x147CB77cFd0D3A0932D859820d1A3DB9686396F9 | ONTx contract hash in Ethereum chain
+CCMP | 0xb600c8a2e8852832B75DB9Da1A3A1c173eAb28d8 | Cross Chain Manager Proxy contract hash 
+ECCD | 0xA38366d552672556CE82426Da5031E2Ae0598dcD | Ethereum Cross Chain Data contract hash
+ECCM | 0xcF9b45217192F70c1df42Ba460Fd644FDB248eA5 | Ethereum Cross Chain Manager contract hash
+Lock Proxy | 0xE44dDbAb7a9Aa11b9D0cA8b686F9E0299DB735d1 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+ERC20 | 0x33fb970bE14548309bbbdcbFe6327865C6d71b70 | ERC20 template contract hash in Ethereum chain
+OEP4x | 0xde5dBad6ab0FD0EBDEBf6B6cf4eB93D51207dc8f | OEP4x template contract hash in Ethereum chain
+ONGx | 0x0A03605ad4E8381855cF7b650f9482002267ad33 | ONGx contract hash in Ethereum chain
+ONTx | 0x8cE92808118Bc43c2B8635d3eb6b1b67cD2fB9a0 | ONTx contract hash in Ethereum chain
 ETH | 0x0000000000000000000000000000000000000000 | The asset hash that we treat as the Ether asset
-BTCx | 0xA427C5994C2e00272516140836D21BdC3A538c79 | Btcx contract hash corresponding with unique btc redeem script
-NEOx | 0x3DB9D2FF5A878A70f049cFD5Cb3D884EA7EF539F |
+BTCx | 0x92705a16815A3d1AEC3cE9Cc273C5aa302961FcC | Btcx contract hash corresponding with unique btc redeem script
+NEOx |  |
 
 ## Ontology
 #### Please donot send from or to Ontology network during upgrade of Ontology testnet
 
 Type | Contract Hash | Desc
 ---|---|---
-Lock Proxy | B: f4b57dee05beb0be928cb57b17f2db96d5187053 </br> L: 537018d596dbf2177bb58c92beb0be05ee7db5f4 | The bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
-ERC20x | B:8c8257c1f58533e906f6e24ae06d06be0fc16432  </br> L: 3264c10fbe066de04ae2f606e93385f5c157828c  | ERC20 template contract hash in Ontology chain
-OEP4 | B: 34661f6e90f3d590bbe0281a76935f94bd459532 </br> L: 329545bd945f93761a28e0bb90d5f3906e1f6634 | OEP4 template contract hash in Ontology chain
+Lock Proxy | B: 34a593c5ccfb8590e9a4bc7018529016aa4a55ad </br> L: ad554aaa1690521870bca4e99085fbccc593a534 | The bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+ERC20x | B: e930755b130dccb25dc3cfee2b2e30d9370c1a75  </br> L: 751a0c37d9302e2beecfc35db2cc0d135b7530e9  | ERC20 template contract hash in Ontology chain
+OEP4 | B: 969850e009b5e2a061694f3479ec8e44bc68bcd3 </br> L: d3bc68bc448eec79344f6961a0e2b509e0509896 | OEP4 template contract hash in Ontology chain
 ONG | B: 0200000000000000000000000000000000000000 </br> L: 0000000000000000000000000000000000000002 | ONG asset hash in Ontology chain
 ONT | B: 0100000000000000000000000000000000000000 </br> L: 0000000000000000000000000000000000000002 | ONT asset hash in Ontology chain
-ETHx | B: 1fd76f19e621816de34c5c74643ca69aeeab4d42 </br> L: 424dabee9aa63c64745c4ce36d8121e6196fd71f | Ethx asset hash in Ontology chain
-BTCx | B: aa0e7aede9c0d5b599b9908237f3df84d7260be5 </br> L: e50b26d784dff3378290b999b5d5c0e9ed7a0eaa |  Btcx contract hash in Ontology chain
+ETHx | B: ec2e25c4c12371ca37b129477a23a152e62ff103 </br> L: 03f12fe652a1237a4729b137ca7123c1c4252eec | Ethx asset hash in Ontology chain
+BTCx | B: 814d32455c21bfc25c33b75ccbfc34fe8e79bff1 </br> L: f1bf798efe34fccb5cb7335cc2bf215c45324d81 |  Btcx contract hash in Ontology chain
 CNEOx | B:  </br> L:  |  CNEOx contract hash in Ontology chain
 CGASx | B:  </br> L:  | CGasx contract hash in Ontology chain
 
