@@ -59,7 +59,7 @@ BTCx | B: 0x3ee29d5cc82771e91383f9ba09c6f5c5878f3f24 </br> L: 243f8f87c5f5c609ba
 ONTx | B: 0x5a9222225f1bdb135123b74354c7248200c440aa </br> L: aa40c4008224c75443b7235113db1b5f2222925a | ONT asset hash in Neo chain
 ATOMx | B: 0xb25b51d684f7945f7aab43496cb0e87138abdb35 </br> L: 35dbab3871e8b06c4943ab7a5f94f784d6515bb2 | ATOM asset hash in Neo chain
 CCMC | B: 0x80cd0c6fb005da87b78c54dd03c65ef1447195fa </br> L: fa957144f15ec603dd548cb787da05b06f0ccd80 | Cross Chain Manager Contract
-Lock Proxy | B: 0xd9b91c5a23e902f39d80593ab5233dfa16a6365c </br> L: 5c36a616fa3d23b53a59809df302e9235a1cb9d9 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+Lock Proxy | B: 0x450db31673b933b715012bfbaa848b9238f85008 </br> L: 0850f838928b84aafb2b0115b733b97316b30d45 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 
 
 ## Note 
