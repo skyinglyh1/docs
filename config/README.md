@@ -23,6 +23,12 @@ ECCD | 0xcf2afe102057ba5c16f899271045a0a37fcb10f2 | Ethereum Cross Chain Data co
 ECCM | 0x838bf9e95cb12dd76a54c9f9d2e3082eaf928270 | Ethereum Cross Chain Manager contract hash
 Lock Proxy| 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash
 pONT| 0xcb46c550539ac3db72dc7af7c89b11c306c727c2 | Ethereum Ontology Token
+WBTC| 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 | WBTC
+USDC| 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC
+renBTC| 0xeb4c2781e4eba804ce9a9803c67d0893436bb27d | renBTC
+
+
+
 
 
 ## Ontology
