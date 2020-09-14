@@ -22,6 +22,10 @@ CCMP | 0x5a51e2ebf8d136926b9ca7b59b60464e7c44d2eb | Cross Chain Manager Proxy co
 ECCD | 0xcf2afe102057ba5c16f899271045a0a37fcb10f2 | Ethereum Cross Chain Data contract hash
 ECCM | 0x838bf9e95cb12dd76a54c9f9d2e3082eaf928270 | Ethereum Cross Chain Manager contract hash
 Lock Proxy| 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash
+pONT| 0xcb46c550539ac3db72dc7af7c89b11c306c727c2 | Ethereum Ontology Token
+pONG| 0xc8757865920e0467f5d23b59845aa357a24ea38c | Ethereum Ontology Gas Token
+
+
 
 ## Ontology
 
@@ -31,6 +35,7 @@ Lock Proxy | B: 0x86b4ab5d99037113867247a1e68f70e348c07597 </br> L: 9775c048e370
 pUSDC | B: 0x061a07cd393aac289b8ecfda2c3784b637a2fb33 </br> L: 33fba237b684372cdacf8e9b28ac3a39cd071a06 | Ontology wrapped USDT (Ethereum) Cross Chain asset contract hash
 pWBTC | B: 0x8037dd7161401417d3571b92b86846d34309129a </br> L: 9a120943d34668b8921b57d31714406171dd3780 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
 prenBTC | B: 0x46c3051c553aaeb3724ea69336ec483f39fa91b1 </br> L: b191fa393f48ec3693a64e72b3ae3a551c05c346 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
+ONTd | B: 0x33ae7eae016193ba0fe238b223623bc78faac158 </br> L: 58c1aa8fc73b6223b238e20fba936101ae7eae33 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
 
 
 ## Neo
