@@ -27,7 +27,7 @@ Lock Proxy| 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy co
 
 Type | Contract Hash | Desc
 ---|---|---
-Lock Proxy | B: 0x86b4ab5d99037113867247a1e68f70e348c07597 </br> 9775c048e3708fe6a1477286137103995dabb486 | ONT with 9 decimal contract hash 
+Lock Proxy | B: 0x86b4ab5d99037113867247a1e68f70e348c07597 </br> L: 9775c048e3708fe6a1477286137103995dabb486 | ONT with 9 decimal contract hash 
 pUSDC | B: 0x061a07cd393aac289b8ecfda2c3784b637a2fb33 </br> L: 33fba237b684372cdacf8e9b28ac3a39cd071a06 | Ontology wrapped USDT (Ethereum) Cross Chain asset contract hash
 pWBTC | B: 0x8037dd7161401417d3571b92b86846d34309129a </br> L: 9a120943d34668b8921b57d31714406171dd3780 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
 prenBTC | B: 0x46c3051c553aaeb3724ea69336ec483f39fa91b1 </br> L: b191fa393f48ec3693a64e72b3ae3a551c05c346 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
