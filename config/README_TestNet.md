@@ -42,8 +42,8 @@ OERC20 | B: e930755b130dccb25dc3cfee2b2e30d9370c1a75  </br> L: 751a0c37d9302e2be
 OEP4 | B: 969850e009b5e2a061694f3479ec8e44bc68bcd3 </br> L: d3bc68bc448eec79344f6961a0e2b509e0509896 | OEP4 template contract hash in Ontology chain
 ONG | B: 0200000000000000000000000000000000000000 </br> L: 0000000000000000000000000000000000000002 | ONG asset hash in Ontology chain
 ONT | B: 0100000000000000000000000000000000000000 </br> L: 0000000000000000000000000000000000000001 | ONT asset hash in Ontology chain
- OUSDC      | B:07a12c0a6bdce4df04ef4b2045d1b0fd63a56e25</br> L:256ea563fdb0d145204bef04dfe4dc6b0a2ca107 |                                                              
-ONTd | B:1e0846d9d569157465be0f410f236405a981ca3e</br> L:58c1aa8fc73b6223b238e20fba936101ae7eae33 | ONT with 9 decimal contract hash 
+OUSDC      | B:07a12c0a6bdce4df04ef4b2045d1b0fd63a56e25</br> L:256ea563fdb0d145204bef04dfe4dc6b0a2ca107 |                                                              
+ONTd | B: 33ae7eae016193ba0fe238b223623bc78faac158</br> L:58c1aa8fc73b6223b238e20fba936101ae7eae33 | ONT with 9 decimal contract hash 
 oUSDT | B: c6f91c11d740d39943b99a6b1c6fd2b5f476e2a3 </br>L: a3e276f4b5d26f1c6b9ab94399d340d7111cf9c6 | Ontology wrapped USDT (Ethereum) Cross Chain asset contract hash
 OWBTC | B: aede525f05065306423a5522bfcd31b5847ffa52</br> L: 52fa7f84b531cdbf22553a42065306055f52deae | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
 ODAI | B: 96cf88356123592835a2fa75068a242260be1791</br> L: 9117be6022248a0675faa235285923613588cf96 | 
