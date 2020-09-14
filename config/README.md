@@ -23,8 +23,6 @@ ECCD | 0xcf2afe102057ba5c16f899271045a0a37fcb10f2 | Ethereum Cross Chain Data co
 ECCM | 0x838bf9e95cb12dd76a54c9f9d2e3082eaf928270 | Ethereum Cross Chain Manager contract hash
 Lock Proxy| 0x250e76987d838a75310c34bf422ea9f1AC4Cc906 | Ethereum Asset Proxy contract hash
 pONT| 0xcb46c550539ac3db72dc7af7c89b11c306c727c2 | Ethereum Ontology Token
-pONG| 0xc8757865920e0467f5d23b59845aa357a24ea38c | Ethereum Ontology Gas Token
-
 
 
 ## Ontology
