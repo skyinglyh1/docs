@@ -28,6 +28,8 @@ USDC| 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC
 renBTC| 0xeb4c2781e4eba804ce9a9803c67d0893436bb27d | renBTC
 USDT| 0xdac17f958d2ee523a2206206994597c13d831ec7 | USDT
 DAI| 0x6b175474e89094c44da98b954eedeac495271d0f | DAI
+pWING| 0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a | pWING
+
 
 
 ## Ontology
@@ -37,8 +39,9 @@ Type | Contract Hash | Desc
 Lock Proxy | B: 86b4ab5d99037113867247a1e68f70e348c07597 </br> L: 9775c048e3708fe6a1477286137103995dabb486 | ONT with 9 decimal contract hash 
 pUSDC | B: 061a07cd393aac289b8ecfda2c3784b637a2fb33 </br> L: 33fba237b684372cdacf8e9b28ac3a39cd071a06 | Ontology wrapped USDT (Ethereum) Cross Chain asset contract hash
 pWBTC | B: 8037dd7161401417d3571b92b86846d34309129a </br> L: 9a120943d34668b8921b57d31714406171dd3780 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
-prenBTC | B: 46c3051c553aaeb3724ea69336ec483f39fa91b1 </br> L: b191fa393f48ec3693a64e72b3ae3a551c05c346 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
-ONTd | B: 33ae7eae016193ba0fe238b223623bc78faac158 </br> L: 58c1aa8fc73b6223b238e20fba936101ae7eae33 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
+prenBTC | B: 46c3051c553aaeb3724ea69336ec483f39fa91b1 </br> L: b191fa393f48ec3693a64e72b3ae3a551c05c346 | Ontology wrapped renBTC (Ethereum) Cross Chain asset contract hash
+ONTd | B: 33ae7eae016193ba0fe238b223623bc78faac158 </br> L: 58c1aa8fc73b6223b238e20fba936101ae7eae33 | Ontology  ONT decimal asset contract hash
+WING | B: 00c59fcd27a562d6397883eab1f2fff56e58ef80 </br> L: 80ef586ef5fff2b1ea837839d662a527cd9fc500 | Ontology WING asset contract hash
 
 
 ## Neo
