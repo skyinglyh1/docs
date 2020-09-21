@@ -63,6 +63,8 @@ ONTd | B: 33ae7eae016193ba0fe238b223623bc78faac158 </br> L: 58c1aa8fc73b6223b238
 WING | B: 00c59fcd27a562d6397883eab1f2fff56e58ef80 </br> L: 80ef586ef5fff2b1ea837839d662a527cd9fc500 | Ontology WING asset contract hash
 psUSD | B: 17a58a4a65959c2f567e5063c560f9d09fb81284 </br> L: 8412b89fd0f960c563507e562f9c95654a8aa517 | Ontology psUSD asset contract hash
 pPAX | B: 0dabee6055a1c17e3b4bcb15af1a713605b7fcfc </br> L: fcfcb70536711aaf15cb4b3b7ec1a15560eeab0d | Ontology pPAX asset contract hash
+pNEO | B: 9a576d927dda934b8ce69f35ec2c1025ceb10e6f </br> L: 6f0eb1ce25102cec359fe68c4b93da7d926d579a | Ontology pNEO asset contract hash
+
 
 
 
