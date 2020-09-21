@@ -29,6 +29,8 @@ renBTC| 0xeb4c2781e4eba804ce9a9803c67d0893436bb27d | renBTC
 USDT| 0xdac17f958d2ee523a2206206994597c13d831ec7 | USDT
 DAI| 0x6b175474e89094c44da98b954eedeac495271d0f | DAI
 pWING| 0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a | pWING
+sUSD| 0x57ab1ec28d129707052df4df418d58a2d46d5f51 | sUSD
+
 
 
 
@@ -45,6 +47,9 @@ pUSDT | B: ac654837a90eee8fccabd87a2d4fc7637484f01a </br> L: 1af0847463c74f2d7ad
 prenBTC | B: 46c3051c553aaeb3724ea69336ec483f39fa91b1 </br> L: b191fa393f48ec3693a64e72b3ae3a551c05c346 | Ontology wrapped renBTC (Ethereum) Cross Chain asset contract hash
 ONTd | B: 33ae7eae016193ba0fe238b223623bc78faac158 </br> L: 58c1aa8fc73b6223b238e20fba936101ae7eae33 | Ontology  ONT decimal asset contract hash
 WING | B: 00c59fcd27a562d6397883eab1f2fff56e58ef80 </br> L: 80ef586ef5fff2b1ea837839d662a527cd9fc500 | Ontology WING asset contract hash
+psUSD | B: 17a58a4a65959c2f567e5063c560f9d09fb81284 </br> L: 8412b89fd0f960c563507e562f9c95654a8aa517 | Ontology psUSD asset contract hash
+pPAX | B: 0dabee6055a1c17e3b4bcb15af1a713605b7fcfc </br> L: fcfcb70536711aaf15cb4b3b7ec1a15560eeab0d | Ontology pPAX asset contract hash
+
 
 
 ## Neo
