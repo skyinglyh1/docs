@@ -39,8 +39,8 @@ Type | Contract Hash | Desc
 Lock Proxy | B: 86b4ab5d99037113867247a1e68f70e348c07597 </br> L: 9775c048e3708fe6a1477286137103995dabb486 | ONT with 9 decimal contract hash 
 pUSDC | B: 061a07cd393aac289b8ecfda2c3784b637a2fb33 </br> L: 33fba237b684372cdacf8e9b28ac3a39cd071a06 | Ontology wrapped USDT (Ethereum) Cross Chain asset contract hash
 pWBTC | B: 8037dd7161401417d3571b92b86846d34309129a </br> L: 9a120943d34668b8921b57d31714406171dd3780 | Ontology wrapped WBTC (Ethereum) Cross Chain asset contract hash
-pDAI | B: 7b956c0c11fcffb9c9227ca1925ba4c3486b36f1 </br> L: 794a6aedc68eaa77973e9e6a3cb14b330d6019df | Ontology wrapped DAI (Ethereum) Cross Chain asset contract hash
-pETH | B: df19600d334bb13c6a9e3e9777aa8ec6ed6a4a79 </br> L: 9a120943d34668b8921b57d31714406171dd3780 | Ontology wrapped ERH (Ethereum) Cross Chain asset contract hash
+pDAI | B: 7b956c0c11fcffb9c9227ca1925ba4c3486b36f1 </br> L: f1366b48c3a45b92a17c22c9b9fffc110c6c957b | Ontology wrapped DAI (Ethereum) Cross Chain asset contract hash
+pETH | B: df19600d334bb13c6a9e3e9777aa8ec6ed6a4a79 </br> L: 794a6aedc68eaa77973e9e6a3cb14b330d6019df | Ontology wrapped ERH (Ethereum) Cross Chain asset contract hash
 pUSDT | B: ac654837a90eee8fccabd87a2d4fc7637484f01a </br> L: 1af0847463c74f2d7ad8abcc8fee0ea9374865ac | Ontology wrapped USDT (Ethereum) Cross Chain asset contract hash
 prenBTC | B: 46c3051c553aaeb3724ea69336ec483f39fa91b1 </br> L: b191fa393f48ec3693a64e72b3ae3a551c05c346 | Ontology wrapped renBTC (Ethereum) Cross Chain asset contract hash
 ONTd | B: 33ae7eae016193ba0fe238b223623bc78faac158 </br> L: 58c1aa8fc73b6223b238e20fba936101ae7eae33 | Ontology  ONT decimal asset contract hash
