@@ -5,7 +5,7 @@ This's cross chain asset contract info on <strong>TESTNET</strong>, it's used to
 ## Decentralized Application TestNet Nodes
 Chain | IP | Rpc Port
 ---|---|---
-Poly | ```http://beta1.poly.network``` | 21336
+Poly | ```http://beta1.poly.network``` | 20336
 Neo | ```http://seed9.ngd.network``` | 20332
 
 
