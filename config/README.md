@@ -70,6 +70,8 @@ pPAX | B: 0dabee6055a1c17e3b4bcb15af1a713605b7fcfc </br> L: fcfcb70536711aaf15cb
 pNEO | B: 9a576d927dda934b8ce69f35ec2c1025ceb10e6f </br> L: 6f0eb1ce25102cec359fe68c4b93da7d926d579a | Ontology pNEO asset contract hash
 pUNI | B: 89029ef258b82c5c3741fe25db91375e9301dc71 </br> L: 71dc01935e3791db25fe41375c2cb858f29e0289 | Ontology pUNI asset contract hash
 pOKB | B: 8ea81002294e8117b43ab719bd03b7ad9fe67dc0 </br> L: c07de69fadb703bd19b73ab417814e290210a88e | Ontology pOKB asset contract hash
+pYFI | B: 8c8dc28d10c22a66357240b920b569e32447d7af </br> L: afd74724e369b520b9407235662ac2108dc28d8c | Ontology pYFI asset contract hash
+
 
 
 
