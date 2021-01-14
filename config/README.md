@@ -118,3 +118,4 @@ Ethereum | 2 | 2
 Ontology | 3 | 3
 NEO | 4 | 4
 Switcheo | 5 | 5
+BSC | 6 | 6
