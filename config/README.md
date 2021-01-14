@@ -91,6 +91,14 @@ pnWBTC | B: 0x534dcac35b0dfadc7b2d716a7a73a7067c148b37 </br> L: 378b147c06a7737a
 pnUNI_V2_ETH_WBTC | B: 0xc534d65c85c074887f58ed1f3bad7dfd739a525e </br> L: 5e529a73fd7dad3b1fed587f8874c0855cd634c5 | nUNI_V2_ETH_WBTC asset hash in Neo chain
 FLM | B: 0x4d9eab13620fe3569ba3b0e56e2877739e4145e3 </br> L: e345419e7377286ee5b0a39b56e30f6213ab9e4d | Flamingo token
 
+## Binance Smart Chain
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Cross Chain Manager Proxy contract hash 
+ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | BSC Cross Chain Data contract hash
+ECCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | BSC Cross Chain Manager contract hash
+Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | BSC Asset Proxy contract hash
+
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
 
