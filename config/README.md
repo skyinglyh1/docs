@@ -98,6 +98,7 @@ CCMP | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Cross Chain Manager Proxy co
 ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | BSC Cross Chain Data contract hash
 ECCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | BSC Cross Chain Manager contract hash
 Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | BSC Asset Proxy contract hash
+pNEO | 0xb119b3b8e5e6eeffbe754b20ee5b8a42809931fb | NEO mapping asset in BSC
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
@@ -119,3 +120,4 @@ Ontology | 3 | 3
 NEO | 4 | 4
 Switcheo | 5 | 5
 BSC | 6 | 6
+
