@@ -103,6 +103,8 @@ pETH | 0xb9478391eec218defa96f7b9a7938cf44e7a2fd5 | ETH mapping asset in BSC
 pUSDT|  0x48389753b64C9e581975457332E60dC49325A653 | USDT mapping asset in BSC
 pDAI | 0x8F339ABc2A2a8a4D0364C7e35F892c40FBFb4BC0 | DAI mapping asset in BSC
 pUSDC | 0x0dBbf67Fb78651D3F6407A421040f1503b486693 | USDC mapping asset in BSC
+psUSD | 0x89bcD91F7922126C568436841b16d036528E9714 | sUSD mapping asset in BSC
+
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
