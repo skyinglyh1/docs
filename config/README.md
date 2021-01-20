@@ -102,7 +102,7 @@ pNEO | 0xb119b3b8e5e6eeffbe754b20ee5b8a42809931fb | NEO mapping asset in BSC
 pETH | 0xb9478391eec218defa96f7b9a7938cf44e7a2fd5 | ETH mapping asset in BSC
 pUSDT|  0x48389753b64C9e581975457332E60dC49325A653 | USDT mapping asset in BSC
 pDAI | 0x8F339ABc2A2a8a4D0364C7e35F892c40FBFb4BC0 | DAI mapping asset in BSC
-pUSDC | 0x8F339ABc2A2a8a4D0364C7e35F892c40FBFb4BC0 | USDC mapping asset in BSC
+pUSDC | 0x0dBbf67Fb78651D3F6407A421040f1503b486693 | USDC mapping asset in BSC
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
