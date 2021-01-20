@@ -101,6 +101,8 @@ Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | BSC Asset Proxy contrac
 pNEO | 0xb119b3b8e5e6eeffbe754b20ee5b8a42809931fb | NEO mapping asset in BSC
 pETH | 0xb9478391eec218defa96f7b9a7938cf44e7a2fd5 | ETH mapping asset in BSC
 pUSDT| 0x2f7ac9436ba4b548f9582af91ca1ef02cd2f1f03 | USDT mapping asset in BSC
+pDAI | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | DAI mapping asset in BSC
+
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
 
