@@ -106,6 +106,15 @@ pUSDC | 0x0dBbf67Fb78651D3F6407A421040f1503b486693 | USDC mapping asset in BSC
 psUSD | 0x89bcD91F7922126C568436841b16d036528E9714 | sUSD mapping asset in BSC
 
 
+## Huobi Eco Chain(HECO)
+Type | Contract Hash | Desc
+---|---|---
+CCMP | 0xABD7f7B89c5fD5D0AEf06165f8173b1b83d7D5c9 | Cross Chain Manager Proxy contract hash 
+ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | Heco Cross Chain Data contract hash
+ECCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | Heco Cross Chain Manager contract hash
+Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | Heco Asset Proxy contract hash
+
+
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
 
