@@ -116,6 +116,9 @@ Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | Heco Asset Proxy contra
 pNEO | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | NEO mapping asset in Heco
 pETH | 0x28FF66a1B95d7CAcf8eDED2e658f768F44841212 | ETH mapping asset in Heco
 pDAI | 0x7E418a9926c8D1cbd09CC93E8051cC3BbdfE3854 | DAI mapping asset in Heco
+pUSDC | 0xB119b3b8e5e6eefFBE754B20ee5B8A42809931Fb | USDC mapping asset in Heco
+
+
 
 ## Note 
 `B` means big-endian, we can search the contract transaction history in corresponding explorer.
