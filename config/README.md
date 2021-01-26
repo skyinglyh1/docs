@@ -114,6 +114,7 @@ ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | Heco Cross Chain Data contra
 ECCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | Heco Cross Chain Manager contract hash
 Lock Proxy| 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | Heco Asset Proxy contract hash
 pNEO | 0x2f7ac9436ba4B548f9582af91CA1Ef02cd2F1f03 | NEO mapping asset in Heco
+pETH | 0x28FF66a1B95d7CAcf8eDED2e658f768F44841212 | ETH mapping asset in Heco
 
 
 
