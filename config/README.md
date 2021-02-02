@@ -115,12 +115,12 @@ ECCD | 0x11e2A718d46EBe97645b87F2363AFE1BF28c2672 | Heco Cross Chain Data contra
 ECCM | 0x7ceA671DABFBa880aF6723bDdd6B9f4caA15C87B | Heco Cross Chain Manager contract hash
 Lock Proxy| 0x020c15e7d08A8Ec7D35bCf3AC3CCbF0BBf2704e6 | Heco Asset Proxy contract hash
 Poly Wrapper | 0x4fE451186c0D69205ACc1fA00FD75fc6d71e47eE | lock entrance for auto cross chain tx with fee 
-pNEO |  | NEO mapping asset in Heco
-pETH |  | ETH mapping asset in Heco
-pDAI |  | DAI mapping asset in Heco
-pUSDC |  | USDC mapping asset in Heco
-pUSDT|   | USDT mapping asset in Heco
-psUSD |  | sUSD mapping asset in Heco
+pNEO | 0x6514a5ebff7944099591ae3e8a5c0979c83b2571 | NEO mapping asset in Heco
+pETH | 0x8c0859c191d8f100e4a3c0d8c0066c36a0c1f894 | ETH mapping asset in Heco
+pDAI | 0x643f3914fB8eDE03d932c79732746a8c11Ae470A | DAI mapping asset in Heco
+pUSDC | 0xe85631B817923487ba40263144eEfF532Cff10a2 | USDC mapping asset in Heco
+pUSDT|  0xA7d1aAc3c9bf61559c25f94132a9f801E8B5F97E | USDT mapping asset in Heco
+psUSD | 0x002E47D940dfd177dc0Fe78321E17EF84676985D | sUSD mapping asset in Heco
 
 
 
